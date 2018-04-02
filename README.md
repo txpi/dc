@@ -1,2 +1,2 @@
-# super-super-heroku-bot
+# txp111 discord bot
 txpi's discord bot.
